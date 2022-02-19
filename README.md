@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrishnNixon
+- 👋 Hi, I’m Krishn Gupta
 - 👀 I’m interested in ... coding for d-app
 - 🌱 I’m currently learning ... D-apps
 - 💞️ I’m looking to collaborate on ... Project code
